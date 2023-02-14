@@ -32,7 +32,7 @@ Replace `[fractal name]` with one of the following options to choose the fractal
 
 - `mandelbrot` for the Mandelbrot set
 - `julia` for a Julia set
-- `barnsley` for the Barnsley Fern
+- `barnsleyfern` for the Barnsley Fern
 
 ## Screenshots
 
