@@ -1,8 +1,4 @@
 
-## Upcoming Changes
-
-Sources for the project will be added on 14.2.2023. Stay tuned!
-
 # Fractol
 
 Fractol is a project that explores the world of fractals by creating visual representations of the Mandelbrot set, Julia sets, and Barnsley Fern.
