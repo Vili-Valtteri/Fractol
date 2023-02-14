@@ -40,9 +40,19 @@ Replace `[fractal name]` with one of the following options to choose the fractal
 
 ## Screenshots
 
-(Upcoming Changes)
+Mandelbrot
 
-Screenshots for the project will be added on 14.2.2023. Stay tuned!
+<img width="700" alt="Mandelbrot" src="https://user-images.githubusercontent.com/86079441/218731226-54056e29-8969-4249-9a08-1ae273ab6187.png">
+
+Julia sets
+
+<img width="700" alt="Juliaset1" src="https://user-images.githubusercontent.com/86079441/218731274-bf9a49e2-b9bf-4dd1-9371-625902e99156.png">
+
+<img width="700" alt="Juliaset2" src="https://user-images.githubusercontent.com/86079441/218731325-093369d1-5d6d-4b36-aeda-c209489d16bf.png">
+
+Barnsley fern
+
+<img width="700" alt="barnsleyfern" src="https://user-images.githubusercontent.com/86079441/218731344-e7298fe8-35a4-40fe-9bf0-543b5a71b2c4.png">
 
 ## Built With
 
